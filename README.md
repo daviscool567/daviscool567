@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Davis Ngaikedi, FOUNDER / CTO / SOFTWARE DEVELOPER 
 
-I am more of a full stack Developer with 8 years of experience skilled with HTML, CSS/SCSS, React.js|Next.js, JavaScript , Typescript, NodeJS|ExpressJs, PHP & Python 
+I am more of a full stack Developer with 8 years of experience skilled with HTML, CSS/SCSS, React.js|Next.js, JavaScript , Typescript, NodeJS|ExpressJs, PHP & Python, MySQL, MongoDB, PostgreSQL
 
 
 <!--
